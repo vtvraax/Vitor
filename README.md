@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/profile.pic.jpg" width="300"/>
+<img align="right" src="https://kinsta.com/pt/wp-content/uploads/sites/3/2019/08/jpg-vs-jpeg.jpg" width="300"/>
 
 ## Hello World! 👩🏻‍💻
 *Transformando Bugs em Sorrisos!🐞 🚀*
